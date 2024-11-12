@@ -1,0 +1,28 @@
+In Config File:
+
+spawn_settings:
+  can_replace_roles:
+  - ClassD
+  max_players: 10
+  min_players: 1
+  spawn_chance: 60
+
+Explaining the can_replace_roles Variable:
+
+can_replace_roles:
+  - ClassD
+ 
+Description: Which Roles can the Role Replace. It should be the same Role as the Role and role_appearence role!
+
+Explaining the max_players and min_players Variables:
+
+max_players: 10
+Description: How much Player can maximum spawn as this Role
+
+min_players: 1
+Description: How much Players should spawn as this Role
+
+Explaining the spawn_chance variable:
+
+spawn_chance: 60
+Description: How high should be the SpawnChance from 1-100 
