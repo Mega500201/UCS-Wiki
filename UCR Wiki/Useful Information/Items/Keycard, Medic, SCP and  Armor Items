@@ -1,1 +1,30 @@
+Keycard:
+KeycardJanitor 
+KeycardScientist 
+KeycardResearchCoordinator 
+KeycardZoneManager 
+KeycardGuard 
+KeycardMTFPrivate 
+KeycardContainmentEngineer 
+KeycardMTFOperative 
+KeycardMTFCaptain 
+KeycardFacilityManager 
+KeycardChaosInsurgency 
+KeycardO5
 
+Medic Items:
+Medkit
+Painkillers
+
+SCP Items:
+SCP500 
+SCP207 
+SCP018
+SCP268
+SCP330 
+SCP2176 
+SCP244a 
+SCP244b 
+SCP1853 
+SCP1576
+AntiSCP207
