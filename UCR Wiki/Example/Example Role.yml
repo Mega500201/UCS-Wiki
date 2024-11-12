@@ -1,1 +1,67 @@
-
+id: 1
+name: 'Contaiment Squad Sergeant'
+override_role_name: false
+nickname: ''
+custom_info: 'Contaiment Squad Sergeant'
+badge_name: ''
+badge_color: ''
+role: NtfSergeant
+team: 
+role_appearance: NtfSergeant
+is_friend_of: []
+health:
+  amount: 100
+  maximum: 100
+  hume_shield: 0
+  hume_shield_regeneration_amout: 0
+  hume_shield_regeneration_delay: 0
+ahp:
+  amount: 0
+  limit: 0
+  decay: 0
+  efficacy: 0
+  sustain: 0
+  persistant: false
+effects: []
+stamina:
+  regen_multiplier: 1
+  usage_multiplier: 1
+  infinite: false
+max_scp330_candies: 2
+can_escape: false
+role_after_escape:
+  default: InternalRole Spectator
+  cuffed by InternalTeam ChaosInsurgency: InternalRole ClassD
+scale:
+  x: 1
+  y: 1
+  z: 1
+spawn_broadcast: You are a Cotaiment Squad Sergeant
+spawn_broadcast_duration: 15
+spawn_hint: ''
+spawn_hint_duration: 0
+custom_inventory_limits:
+  Medical: 2
+inventory:
+  - GunE11SR
+  - KeycardMTFOperative
+  - ArmorCombat
+  - MedKit
+  - Radio
+custom_items_inventory: []
+ammo:
+    Nato556: 180 
+damage_multiplier: 1
+spawn_settings:
+  can_replace_roles:
+  - NtfSergeant
+  max_players: 1
+  min_players: 1
+  spawn_chance: 25
+  spawn: KeepRoleSpawn
+  spawn_zones: []
+  spawn_rooms: []
+  spawn_points: []
+  required_permission: ''
+custom_flags: 
+ignore_spawn_system: false
