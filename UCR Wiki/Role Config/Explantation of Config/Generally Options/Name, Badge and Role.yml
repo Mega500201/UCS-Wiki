@@ -1,0 +1,80 @@
+In Config File:
+
+id: 1
+name: 'Janitor'
+override_role_name: false
+nickname: 'D-%dnumber%'
+custom_info: 'Janitor'
+badge_name: 'Janitor'
+badge_color: 'pumpkin'
+role: ClassD
+team: 
+role_appearance: ClassD
+is_friend_of: []
+
+Explaining Name Variables:
+
+id: 1 
+Description: is the ID of the Class wich UCR needs to load your SubClass. With the ID you can spawn yourself as Subclass
+
+name: 'My Role'
+Description: The Name of the Role so how it should be named
+
+override_role_name: true/false
+Description: If you want that the Role Name ovverrides the Normal Role Name
+
+nickname: 'Test'
+Description: A Nickname so when you press 'N' you see a Custom Name (Not Requid if you want to Nickname let this FIeld empty)
+
+custom_info: 'My Role'
+Description: If you look at somebody how is the SubClass you see which SubClass he is
+
+Explaining Badge Variables:
+
+badge_name: 'Janitor'
+Description: Name of the Badge what you see to in the Player List.
+
+badge_color: 'pumpkin'
+Description: The Color of the Badge 
+
+Aviable Colors:
+- red
+- pumpkin
+- yellow
+- aqua 
+- army_green
+- mint
+- nickel
+- carmine
+- emeraled
+- green
+- lime
+- orange
+- blue_green
+- magenta
+- tomato
+- deep_pink
+- cyan 
+- light_green
+- silver
+- pink
+
+Explaining Role and Team Variables:
+
+role: ClassD
+Description: As which Role the Role should spawn. Aviable Roles can be found [here](https://github.com/Mega500201/UCSWiki/tree/main/UCR%20Wiki/Useful%20Information/Roles)
+
+team: 
+Description: 
+
+role_appearance: ClassD
+Description: Which Appearance the Role should have. It should be the same as which Role spawns
+
+is_friend_of: []
+Description: Should the Role Friend with antoher Team then you can set it here
+
+Aviable Teams:
+- SCPs
+- Foundation Forces
+- Chaos Insurgency
+- Flamingo (Event)
