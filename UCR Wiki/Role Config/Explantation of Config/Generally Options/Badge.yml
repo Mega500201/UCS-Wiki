@@ -5,3 +5,25 @@ Description: Name of the Badge what you see to in the Player List.
 
 badge_color: 'pumpkin'
 Description: The Color of the Badge 
+
+Aviable Colors:
+- red
+- pumpkin
+- yellow
+- aqua 
+- army_green
+- mint
+- nickel
+- carmine
+- emeraled
+- green
+- lime
+- orange
+- blue_green
+- magenta
+- tomato
+- deep_pink
+- cyan 
+- light_green
+- silver
+- pink
