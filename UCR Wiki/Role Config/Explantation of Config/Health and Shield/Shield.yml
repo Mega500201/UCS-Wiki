@@ -1,3 +1,14 @@
+In Config File:
+
+ahp:
+  amount: 0
+  limit: 75
+  decay: 1.20000005
+  efficacy: 0.699999988
+  sustain: 0
+  persistant: false
+
+
 Explaining Shield Variables:
   
 hume_shield: 0
