@@ -1,0 +1,34 @@
+In Config File:
+
+health:
+  amount: 100
+  maximum: 100
+  hume_shield: 0
+  hume_shield_regeneration_amout: 2
+  hume_shield_regeneration_delay: 7.5
+ahp:
+  amount: 0
+  limit: 75
+  decay: 1.20000005
+  efficacy: 0.699999988
+  sustain: 0
+  persistant: false
+
+  Explaining Health Variables: 
+
+  amount: 100
+  Description: With how much HP should the Role spawn
+  
+  maximum: 100
+  Description: The maximum Health the Role should have
+
+  Explaining Shield Variables:
+  
+  hume_shield: 0
+  Description: How much Hume Shield should the Role have at Begin
+  
+  hume_shield_regeneration_amout: 2
+  Description: How often it can regenerate
+  
+  hume_shield_regeneration_delay: 7.5
+  Description: How much Seconds it takes that it regenerates Hume Shield
