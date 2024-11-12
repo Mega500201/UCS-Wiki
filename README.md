@@ -1,1 +1,1 @@
-# UCSWoko
+# UCSWiki
