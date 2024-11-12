@@ -1,1 +1,7 @@
+Explaining Badge Variables:
 
+badge_name: 'Janitor'
+Description: Name of the Badge what you see to in the Player List.
+
+badge_color: 'pumpkin'
+Description: The Color of the Badge 
