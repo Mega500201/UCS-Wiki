@@ -1,0 +1,10 @@
+Explaining Shield Variables:
+  
+hume_shield: 0
+Description: How much Hume Shield should the Role have at Begin
+  
+hume_shield_regeneration_amout: 2
+Description: How often it can regenerate
+  
+hume_shield_regeneration_delay: 7.5
+Description: How much Seconds it takes that it regenerates Hume Shield
