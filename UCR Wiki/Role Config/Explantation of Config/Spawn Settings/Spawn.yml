@@ -1,0 +1,24 @@
+In Config File:
+ 
+  spawn: RoomsSpawn
+  spawn_zones: []
+  spawn_rooms:
+  - LczClassDSpawn
+  spawn_points: []
+
+Explaing the spawn Variable:
+
+spawn: RoomsSpawn
+Descirption: What Spawn Type should be used to spawn the Role. All Spawn Types can be found at: UCR Wiki/Useful Information/Spawn/Spawn Type.yml
+
+Explaining the spawn Type Variables:
+
+spawn_zones: []
+Description: In which Zone should the Role spawn. All Zones can be found at: UCR Wiki/Useful Information/Spawn/Zone Type.yml
+
+spawn_rooms:
+- LczClassDSpawn
+Description: If you set it to rooms you have to set in which Room it should spawn. All Rooms can be found at: UCR Wiki/Useful Information/Spawn/Room Type.yml
+
+spawn_points: []
+Description:
