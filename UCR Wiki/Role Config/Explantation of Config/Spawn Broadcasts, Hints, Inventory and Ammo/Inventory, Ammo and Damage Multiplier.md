@@ -1,5 +1,7 @@
 In Config File:
 
+custom_inventory_limits:
+  Medical: 2
 inventory:
 - Flashlight
 - KeycardJanitor
@@ -8,7 +10,11 @@ ammo:
   Nato9: 10
 damage_multiplier: 1
 
+Explaining Medical Variables:
 
+
+Medical: 2
+Description: Here you can set how much Medical Items the Role can be pick up (Standart are 2 Medical Items)
 Explaining Inventory Variables:
 
 
