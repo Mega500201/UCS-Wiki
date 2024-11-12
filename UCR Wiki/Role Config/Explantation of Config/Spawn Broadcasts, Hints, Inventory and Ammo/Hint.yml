@@ -1,0 +1,12 @@
+In Config File: 
+
+spawn_hint: 'This hint will be shown when you will spawn as a Janitor!'
+spawn_hint_duration: 5
+
+Explaining Hint Varaibles:
+
+spawn_hint: ''
+Description: What should be the Hint Message
+
+spawn_hint_duration: 5
+Description: How long should the Hint been shown to the Player (In Seconds)
