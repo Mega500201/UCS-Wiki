@@ -1,3 +1,11 @@
+In Config File:
+
+role: ClassD
+team: 
+role_appearance: ClassD
+is_friend_of: []
+
+
 Explaining Role and Team Variables:
 
 role: ClassD
