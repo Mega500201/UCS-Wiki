@@ -1,13 +1,13 @@
 id: 1
-name: 'Contaiment Squad Sergeant'
+name: 'Zone Manager'
 override_role_name: false
 nickname: ''
-custom_info: 'Contaiment Squad Sergeant'
+custom_info: 'Zone Manager'
 badge_name: ''
 badge_color: ''
-role: NtfSergeant
+role: FacilityGuard
 team: 
-role_appearance: NtfSergeant
+role_appearance: FacilityGuard 
 is_friend_of: []
 health:
   amount: 100
@@ -30,34 +30,33 @@ stamina:
 max_scp330_candies: 2
 can_escape: false
 role_after_escape:
-  default: InternalRole Spectator
-  cuffed by InternalTeam ChaosInsurgency: InternalRole ClassD
+  default: InternalRole NtfPrivate
 scale:
   x: 1
   y: 1
   z: 1
-spawn_broadcast: You are a Cotaiment Squad Sergeant
+spawn_broadcast: You are a Zone Manager!
 spawn_broadcast_duration: 15
 spawn_hint: ''
 spawn_hint_duration: 0
 custom_inventory_limits:
-  Medical: 2
+  Medical: 3
 inventory:
-  - GunE11SR
   - KeycardMTFOperative
-  - ArmorCombat
-  - MedKit
   - Radio
+  - Medkit
+  - GunCOM18
+  - ArmorCombat
 custom_items_inventory: []
 ammo:
-    Nato556: 180 
+    Nato9: 64
 damage_multiplier: 1
 spawn_settings:
   can_replace_roles:
-  - NtfSergeant
-  max_players: 1
+  - FacilityGuard
+  max_players: 10
   min_players: 1
-  spawn_chance: 25
+  spawn_chance: 60
   spawn: KeepRoleSpawn
   spawn_zones: []
   spawn_rooms: []
