@@ -14,4 +14,4 @@ health:
   Description: With how much HP should the Role spawn
   
   maximum: 100
-  Description: The maximum Health the Role should have
+  Description: The maximum Health the Role can have. For example, if you set 200HP, then after using a medkit, the limit will be increased from 100HP to 200.
