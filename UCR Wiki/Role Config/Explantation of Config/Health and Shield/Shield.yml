@@ -12,10 +12,10 @@ ahp:
 Explaining Shield Variables:
   
 hume_shield: 0
-Description: How much Hume Shield should the Role have at Begin
+Description: How many Hume Shield should the Role have at Begin of the round.
   
 hume_shield_regeneration_amout: 2
-Description: How often it can regenerate
+Description: How many points it can regenerate.
   
 hume_shield_regeneration_delay: 7.5
-Description: How much Seconds it takes that it regenerates Hume Shield
+Description: How many Seconds it takes to regenerates Hume Shield.
