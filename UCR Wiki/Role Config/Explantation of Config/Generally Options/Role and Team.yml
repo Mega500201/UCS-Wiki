@@ -9,19 +9,22 @@ is_friend_of: []
 Explaining Role and Team Variables:
 
 role: ClassD
-Description: As which Role the Role should spawn. Aviable Roles can be found [here](https://github.com/Mega500201/UCSWiki/tree/main/UCR%20Wiki/Useful%20Information/Roles)
+Description: As which Role the Role should spawn. Available Roles can be found [here](https://github.com/Mega500201/UCSWiki/tree/main/UCR%20Wiki/Useful%20Information/Roles)
 
 team: 
 Description: 
 
 role_appearance: ClassD
-Description: Which Appearance the Role should have. It should be the same as which Role spawns
+Description: Which Appearance the Role should have. If you dont plan on changing the role model, the appearance should remain the same as your role.
 
 is_friend_of: []
-Description: Should the Role Friend with antoher Team then you can set it here
+Description: List of Teams befriended with your role. Teams written here, cant attack you and vice versa
 
 Aviable Teams:
 - SCPs
 - Foundation Forces
 - Chaos Insurgency
+- ClassD
 - Flamingo (Event)
+- OtherAlive (Tutorials)
+- Dead
