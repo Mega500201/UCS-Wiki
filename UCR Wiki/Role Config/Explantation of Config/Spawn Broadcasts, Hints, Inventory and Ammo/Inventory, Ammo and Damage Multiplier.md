@@ -14,7 +14,7 @@ Explaining Medical Variables:
 
 
 Medical: 2
-Description: Here you can set how much Medical Items the Role can be pick up (Standart are 2 Medical Items)
+Description: Here you can set how much Medical Items the Role can be pick up (default are 2 Medical Items)
 Explaining Inventory Variables:
 
 
@@ -28,7 +28,7 @@ Description: here you can give the Role Items like how in the Example. Items can
 custom_items_inventory: []
 
 
-Description: If you using [Exileds Custom Items Plugin](https://github.com/Exiled-Team/CustomItems). You can add them here by simply typing the ID
+Description: If you using [Exiled Custom Items Plugin](https://github.com/Exiled-Team/CustomItems) or UCI. You can add them here by simply typing the ID
 
 
 Explaining Ammo Variables:
@@ -39,7 +39,7 @@ ammo:
   Nato9: 10
 
 
-Description: Which Ammo should be given to the ROle. Ammo Types can be found [here](https://github.com/Mega500201/UCSWiki/blob/main/UCR%20Wiki/Useful%20Information/Items/Ammo.yml)
+Description: Which Ammo and how much should be given to the Role. Ammo Types can be found [here](https://github.com/Mega500201/UCSWiki/blob/main/UCR%20Wiki/Useful%20Information/Items/Ammo.yml)
 
 
 Explaining Damage Multiplier Variables:
@@ -48,4 +48,4 @@ Explaining Damage Multiplier Variables:
 damage_multiplier: 1
 
 
-Description: If the Role should make more Damage you can setup it here easily :)
+Description: Role's damage multiplier
