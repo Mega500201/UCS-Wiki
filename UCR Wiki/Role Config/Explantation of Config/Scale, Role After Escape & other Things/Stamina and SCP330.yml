@@ -12,7 +12,7 @@ Explaining Stamania Variables:
   Description: How much should be the Multiplier
   
   usage_multiplier: 1
-  Description: How muchg should be the Multiploer on Use
+  Description: How much should be the Multiploer on Use
   
   infinite: true/false
   Description: Should it be Infinite
@@ -20,4 +20,4 @@ Explaining Stamania Variables:
 Explaining SCP330 Variables:
 
 max_scp330_candies: 2
-Descirption: how many Candys the Role can pickup (Standart is 2)
+Descirption: how many Candies the Role can pickup (default is 2)
