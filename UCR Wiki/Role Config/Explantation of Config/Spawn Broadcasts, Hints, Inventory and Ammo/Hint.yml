@@ -9,4 +9,4 @@ spawn_hint: ''
 Description: What should be the Hint Message
 
 spawn_hint_duration: 5
-Description: How long should the Hint been shown to the Player (In Seconds)
+Description: How long should the Hint be shown for to the Player (In Seconds)
