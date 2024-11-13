@@ -14,4 +14,4 @@ role_after_escape:
   default: InternalRole Spectator
   cuffed by InternalTeam ChaosInsurgency: InternalRole ClassD
 
-  Description: Is it possible that a cuffed ClassD or Scientist can get this Role? Yes this Variable makes it possible
+  Description: If we set the 'default' role (in this case, spectator), then after escaping, this custom role will change into a spectator. If we set it to 'cuffed by InternalTeam team' and then the role, when the custom role is cuffed by this specific team, it will change into the designated role after escaping
