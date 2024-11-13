@@ -21,4 +21,4 @@ nickname: 'Test'
 Description: A Nickname so when you press 'N' you see a Custom Name (Not required if you want to Nickname let this Field empty)
 
 custom_info: 'My Role'
-Description: If you look at somebody how is the SubClass you see which SubClass he is
+Description: If you look at someone whose class is a subclass, you can see which subclass they belong to.
