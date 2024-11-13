@@ -1,4 +1,4 @@
-Welcome to the UCSWiki!
+# Welcome to the UCSWiki! #
 
 # What is the UCS Wiki? #
 
