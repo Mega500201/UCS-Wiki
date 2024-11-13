@@ -18,7 +18,7 @@ override_role_name: true/false
 Description: If you want that the Role Name ovverrides the Normal Role Name
 
 nickname: 'Test'
-Description: A Nickname so when you press 'N' you see a Custom Name (Not Requid if you want to Nickname let this FIeld empty)
+Description: A Nickname so when you press 'N' you see a Custom Name (Not required if you want to Nickname let this Field empty)
 
 custom_info: 'My Role'
 Description: If you look at somebody how is the SubClass you see which SubClass he is
