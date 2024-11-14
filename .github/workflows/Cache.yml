@@ -1,0 +1,57 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
+
+                      - name: Cache
+  uses: actions/cache@v4.1.2
+  with:
+    # A list of files, directories, and wildcard patterns to cache and restore
+    path: 
+    # An explicit key for restoring and saving the cache
+    key: 
+    # An ordered multiline string listing the prefix-matched keys, that are used for restoring stale cache if no cache hit occurred for key. Note `cache-hit` returns false in this case.
+    restore-keys: # optional
+    # The chunk size used to split up large files during upload, in bytes
+    upload-chunk-size: # optional
+    # An optional boolean when enabled, allows windows runners to save or restore caches that can be restored or saved respectively on other platforms
+    enableCrossOsArchive: # optional, default is false
+    # Fail the workflow if cache entry is not found
+    fail-on-cache-miss: # optional, default is false
+    # Check if a cache entry exists for the given input(s) (key, restore-keys) without downloading the cache
+    lookup-only: # optional, default is false
+    # Run the post step to save the cache even if another step before fails
+    save-always: # optional, default is false
+          
