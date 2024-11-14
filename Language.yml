@@ -1,1 +1,7 @@
-Languages: YAML 
+version: "3.9"
+services:
+  web:
+    image: nginx:alpine
+    ports:
+      - "80:80"
+
