@@ -1,39 +1,38 @@
-In Config File:
-
+# In Config File:
 teams:
--
-# The Id of the custom Team
-  id: 2
-  name: 'GOC'
-  min_players: 4
-  spawn_chance: 35
-  spawn_wave: ChaosInsurgency
-  spawn_position:
-    x: 63
-    y: 992
-    z: -50
+  - # The Id of the custom Team
+    id: 2
+    name: 'GOC'
+    min_players: 4
+    spawn_chance: 35
+    spawn_wave: ChaosInsurgency
+    spawn_position:
+      x: 63
+      y: 992
+      z: -50
 
-Explaining the id and name Variables:
+# Explaining the id and name Variables:
 
 id: 2
-Description: Team ID
+Description: The team ID.
 
 name: 'GOC'
-Description: Name of the Team
+Description: The name of the team.
 
-Explaining the max_players and min_players Variables:
+# Explaining the max_players and min_players Variables:
 
 min_players: 1
-Description: How minimal number of Players should be on server to let this this team spawn
+Description: The minimum number of players required on the server for this team to spawn.
 
-Explaining the spawn_chance variable:
-  
+# Explaining the spawn_chance Variable:
+
 spawn_chance: 35
-Description: What Chance should the Team have to spawn
+Description: The chance (in percentage) for the team to spawn.
 
 spawn_wave: ChaosInsurgency
-Description: Which Spawn Wave should the Team replace if it spawns (NineTailedFox, ChaosInsurgency)
+Description: The spawn wave that the team should replace if it spawns (e.g., NineTailedFox, ChaosInsurgency).
+
+# Explaining the spawn_position Variable:
 
 spawn_position:
-Description: Spawn Positon in Coordinats
-
+Description: The spawn position in coordinates (x, y, z).
