@@ -1,5 +1,4 @@
-In Config File:
-
+# In Config File:
 ahp:
   amount: 0
   limit: 75
@@ -8,14 +7,13 @@ ahp:
   sustain: 0
   persistant: false
 
+# Explaining Shield Variables:
 
-Explaining Shield Variables:
-  
 hume_shield: 0
-Description: How many Hume Shield should the Role have at Begin of the round.
-  
+Description: How many Hume Shield the role should have at the beginning of the round.
+
 hume_shield_regeneration_amout: 2
-Description: How many points it can regenerate.
-  
+Description: How many points the Hume Shield can regenerate.
+
 hume_shield_regeneration_delay: 7.5
-Description: How many Seconds it takes to regenerates Hume Shield.
+Description: How many seconds it takes for the Hume Shi
