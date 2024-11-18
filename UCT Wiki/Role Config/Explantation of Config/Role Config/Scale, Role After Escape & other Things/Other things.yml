@@ -1,20 +1,19 @@
-In Config: 
-  
-  required_permission: ''
+# In Config:
+required_permission: ''
 custom_flags: 
 ignore_spawn_system: false
 
-Explaining the required_permission Variable:
+# Explaining the required_permission Variable:
 
 required_permission: ''
-Descirption: Which permisson is required to spawn as the Role
+Description: Enter the required permission needed to spawn as this role. For example, "ucr.vip", and players with the "ucr.vip" permission will be able to spawn as this role.
 
-Explaining the custom_flags Variable:
+# Explaining the custom_flags Variable:
 
 custom_flags:
-Description: 
+Description: Custom flags for the role. Flags can be used for additional settings or permissions.
 
-Explaining the ignore_spawn_system Variable:
+# Explaining the ignore_spawn_system Variable:
 
 ignore_spawn_system: false
-Description: Should the spawn system be ignored?
+Description: Specifies whether the spawn system should be ignored. If set to true, the spawn system will be bypassed.
