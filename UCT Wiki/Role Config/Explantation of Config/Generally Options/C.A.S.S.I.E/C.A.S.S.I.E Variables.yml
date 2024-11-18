@@ -1,0 +1,12 @@
+In Config File: 
+  
+cassie_message: ''
+cassie_translation: ''
+
+Explaining the Cassie Variables:
+
+cassie_message: ''
+Description: What should be the Message that Cassie speak
+
+cassie_translation: ''
+Description: The Translation Text for Cassie
