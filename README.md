@@ -2,7 +2,7 @@
 
 ### What is the UCS Wiki? ###
 
-The UCS Wiki is created by Mega500201, Piwnica, and FoxWorm to assist both new and experienced users of UCR, UCI, and UCT in fixing errors and providing clear explanations of how the plugins and configurations work.
+The UCS Wiki is created by Mega500201, Piwnica, and FoxWorn to assist both new and experienced users of UCR, UCI, and UCT in fixing errors and providing clear explanations of how the plugins and configurations work.
 
 Please note that this wiki is licensed under the [GPL 3.0 License](https://github.com/Mega500201/UCS-Wiki/blob/main/LICENSE).
 
@@ -32,7 +32,7 @@ A: No, it is not sponsored. It was created simply to help others.
 
 - **@Mega500201** – Created this wiki.
 - **@PiwnicaUwU** – Updating and contributing to this wiki.
-- **@FoxWorm** – Created all of the plugins and assisted in creating this wiki.
+- **@FoxWorn** – Created all of the plugins and assisted in creating this wiki.
 
 ---
 
