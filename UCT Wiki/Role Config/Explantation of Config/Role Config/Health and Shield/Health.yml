@@ -1,17 +1,24 @@
-In Config File:
-
+# In Config File:
 health:
   amount: 100
   maximum: 100
   hume_shield: 0
-  hume_shield_regeneration_amout: 2
+  hume_shield_regeneration_amount: 2
   hume_shield_regeneration_delay: 7.5
-  
 
-  Explaining Health Variables: 
+# Explaining Health Variables:
 
-  amount: 100
-  Description: With how much HP should the Role spawn
-  
-  maximum: 100
-  Description: The maximum Health the Role can have. For example, if you set 200HP, then after using a medkit, the limit will be increased from 100
+amount: 100
+Description: The amount of HP the role should spawn with.
+
+maximum: 100
+Description: The maximum health the role can have. For example, if you set it to 200HP, after using a medkit, the limit will increase from 100HP to 200HP.
+
+hume_shield: 0
+Description: The starting value of the Hume Shield.
+
+hume_shield_regeneration_amount: 2
+Description: The amount of Hume Shield that regenerates at a time.
+
+hume_shield_regeneration_delay: 7.5
+Description: The time delay (in seconds) before the Hume Shield starts regenerating.
