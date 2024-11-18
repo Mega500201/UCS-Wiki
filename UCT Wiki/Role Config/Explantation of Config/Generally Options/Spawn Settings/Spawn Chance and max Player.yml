@@ -16,20 +16,20 @@ teams:
 Explaining the id and name Variables:
 
 id: 2
-Description: Which ID should the Team have
+Description: Team ID
 
 name: 'GOC'
-Description: Whats the Name of the Team
+Description: Name of the Team
 
 Explaining the max_players and min_players Variables:
 
 min_players: 1
-Description: How minimal number of Players should be on server to let this this Role spawn
+Description: How minimal number of Players should be on server to let this this team spawn
 
 Explaining the spawn_chance variable:
   
 spawn_chance: 35
-Description: How much Chance should the Team have to spawn
+Description: What Chance should the Team have to spawn
 
 spawn_wave: ChaosInsurgency
 Description: Which Spawn Wave should the Team replace if it spawns (NineTailedFox, ChaosInsurgency)
