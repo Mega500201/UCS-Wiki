@@ -32,7 +32,7 @@ A: No its not, its just created to help others
 
 @Mega500201 Creating this Wiki
 
-@PiwnicaUwU Updating and helping contribuilding this Wiki
+@PiwnicaUwU Updating and helping Contributing this Wiki
 
 @FoxWorm For creating all of the Plugins and helping us to create this Wiki
 
