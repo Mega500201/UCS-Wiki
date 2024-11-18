@@ -1,1 +1,134 @@
-
+teams:
+-
+# The Id of the custom Team
+  id: 2
+  name: 'Serpents Hand'
+  min_players: 4
+  spawn_chance: 35
+  spawn_wave: ChaosInsurgency
+  spawn_position:
+    x: 0
+    y: 0
+    z: 0
+  cassie_message: ''
+  cassie_translation: ''
+  import_roles:
+  roles:
+  -
+  # The maximum number of players that can have this role in this wave
+    max_players: 2
+    spawn_settings: 
+    id: 1
+    name: 'Serpents Hand'
+    override_role_name: false
+    nickname: ''
+    custom_info: 'Serpents Hand'
+    badge_name: ''
+    badge_color: ''
+    role: Tutorial
+    team: 
+    role_appearance: Tutorial
+    is_friend_of:
+      - SCPs
+    health:
+      amount: 125
+      maximum: 125
+      hume_shield: 0
+      hume_shield_regeneration_amount: 0
+      hume_shield_regeneration_delay: 0
+    ahp:
+      amount: 0
+      limit: 0
+      decay: 0
+      efficacy: 0
+      sustain: 0
+      persistant: false
+    effects: []
+    stamina:
+      regen_multiplier: 1
+      usage_multiplier: 1
+      infinite: false
+    max_scp330_candies: 2
+    can_escape: false
+    role_after_escape:
+    scale:
+      x: 1
+      y: 1
+      z: 1
+    spawn_broadcast: You are an Serpents Hand!
+    spawn_hint: ''
+    spawn_hint_duration: 0
+    custom_inventory_limits:
+      Medical: 2
+    inventory:
+    - GunE11SR
+    - KeycardMTFCaptain
+    - Medkit
+    - Medkit
+    - ArmorCombat
+    - GrenadeHE
+    custom_items_inventory: []
+    ammo:
+      Nato556: 180
+    damage_multiplier: 1
+    custom_flags: 
+    ignore_spawn_system: false
+  -
+  # The maximum number of players that can have this role in this wave
+    max_players: 4
+    spawn_settings: 
+    id: 2
+    name: 'Serpents Hand Defender'
+    override_role_name: false
+    nickname: ''
+    custom_info: 'Serpents Hand Defender'
+    badge_name: ''
+    badge_color: ''
+    role: Tutorial
+    team: 
+    role_appearance: Tutorial
+    is_friend_of: 
+      - SCPs
+    health:
+      amount: 150
+      maximum: 150
+      hume_shield: 0
+      hume_shield_regeneration_amount: 0
+      hume_shield_regeneration_delay: 0
+    ahp:
+      amount: 0
+      limit: 0
+      decay: 0
+      efficacy: 0
+      sustain: 0
+      persistant: false
+    effects: []
+    stamina:
+      regen_multiplier: 1
+      usage_multiplier: 1
+      infinite: false
+    max_scp330_candies: 2
+    can_escape: false
+    role_after_escape:
+    scale:
+      x: 1
+      y: 1
+      z: 1
+    spawn_broadcast: You are an Serpents Hand Defender!
+    spawn_broadcast_duration: 15
+    spawn_hint: ''
+    spawn_hint_duration: 0
+    custom_inventory_limits:
+      Medical: 2
+    inventory:
+    - GunLogicer
+    - KeycardMTFOperative
+    - Medkit
+    - ArmorHeavy
+    - GrenadeHE
+    custom_items_inventory: []
+    ammo:
+      Nato762: 200
+    damage_multiplier: 1
+    custom_flags: 
+    ignore_spawn_system: false
