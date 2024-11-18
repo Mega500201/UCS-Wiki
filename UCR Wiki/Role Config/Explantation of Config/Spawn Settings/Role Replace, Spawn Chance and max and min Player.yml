@@ -20,7 +20,7 @@ max_players: 10
 Description: How much Player can maximum spawn as this Role
 
 min_players: 1
-Description: How much Players should spawn as this Role
+Description: How minimal number of Players should be on server to let this this Role spawn
 
 Explaining the spawn_chance variable:
 
