@@ -1,26 +1,24 @@
-In Config File:
-
+# In Config File:
 role: ClassD
 team: 
 role_appearance: ClassD
 is_friend_of: []
 
-
-Explaining Role and Team Variables:
+# Explaining Role and Team Variables:
 
 role: ClassD
-Description: As which Role the Role should spawn. Available Roles can be found [here](https://github.com/Mega500201/UCSWiki/tree/main/UCR%20Wiki/Useful%20Information/Roles)
+Description: Specifies which role the character should spawn as. Available roles can be found [here](https://github.com/Mega500201/UCSWiki/tree/main/UCR%20Wiki/Useful%20Information/Roles).
 
 team: 
-Description: 
+Description: Specifies the team to which the role belongs.
 
 role_appearance: ClassD
-Description: Which Appearance the Role should have. If you dont plan on changing the role model, the appearance should remain the same as your role.
+Description: Defines the appearance of the role. If you don't plan on changing the role model, the appearance should remain the same as the role.
 
 is_friend_of: []
-Description: List of Teams befriended with your role. Teams written here, cant attack you and vice versa
+Description: A list of teams that are friendly with your role. Teams listed here cannot attack you, and you cannot attack them.
 
-Aviable Teams:
+# Available Teams:
 - SCPs
 - Foundation Forces
 - Chaos Insurgency
