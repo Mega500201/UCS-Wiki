@@ -1,51 +1,35 @@
-In Config File:
-
+# In Config File:
 custom_inventory_limits:
   Medical: 2
 inventory:
-- Flashlight
-- KeycardJanitor
+  - Flashlight
+  - KeycardJanitor
 custom_items_inventory: []
 ammo:
   Nato9: 10
 damage_multiplier: 1
 
-Explaining Medical Variables:
-
+# Explaining Medical Variables:
 
 Medical: 2
-Description: Here you can set how much Medical Items the Role can be pick up (default are 2 Medical Items)
-Explaining Inventory Variables:
+Description: Defines how many medical items the role can pick up (default is 2 medical items).
 
+# Explaining Inventory Variables:
 
 inventory:
-- Flashlight
-
-
-Description: here you can give the Role Items like how in the Example. Items can be found [here](https://github.com/Mega500201/UCSWiki/tree/main/UCR%20Wiki/Useful%20Information/Items)
-
+  - Flashlight
+Description: Specifies the items that the role should have. Items can be found [here](https://github.com/Mega500201/UCSWiki/tree/main/UCR%20Wiki/Useful%20Information/Items).
 
 custom_items_inventory: []
+Description: If you're using the [Exiled Custom Items Plugin](https://github.com/Exiled-Team/CustomItems) or UCI, you can add custom items here by typing their ID.
 
-
-Description: If you using [Exiled Custom Items Plugin](https://github.com/Exiled-Team/CustomItems) or UCI. You can add them here by simply typing the ID
-
-
-Explaining Ammo Variables:
-
+# Explaining Ammo Variables:
 
 ammo:
-  
   Nato9: 10
+Description: Specifies the ammo types and amounts the role should have. Ammo types can be found [here](https://github.com/Mega500201/UCSWiki/blob/main/UCR%20Wiki/Useful%20Information/Items/Ammo.yml).
 
-
-Description: Which Ammo and how much should be given to the Role. Ammo Types can be found [here](https://github.com/Mega500201/UCSWiki/blob/main/UCR%20Wiki/Useful%20Information/Items/Ammo.yml)
-
-
-Explaining Damage Multiplier Variables:
-
+# Explaining Damage Multiplier Variables:
 
 damage_multiplier: 1
-
-
-Description: Role's damage multiplier
+Description: The role's damage multiplier.
