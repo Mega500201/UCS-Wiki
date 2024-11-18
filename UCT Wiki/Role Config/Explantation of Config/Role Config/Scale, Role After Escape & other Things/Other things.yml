@@ -1,0 +1,20 @@
+In Config: 
+  
+  required_permission: ''
+custom_flags: 
+ignore_spawn_system: false
+
+Explaining the required_permission Variable:
+
+required_permission: ''
+Descirption: Which permisson is required to spawn as the Role
+
+Explaining the custom_flags Variable:
+
+custom_flags:
+Description: 
+
+Explaining the ignore_spawn_system Variable:
+
+ignore_spawn_system: false
+Description: Should the spawn system be ignored?
