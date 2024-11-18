@@ -1,10 +1,9 @@
-In Config File:
-
+# In Config File:
 scale:
   x: 1
   y: 1
   z: 1
 
-Explaining scale Variables:
+# Explaining Scale Variables:
 
-Description: Simply working like Coordinates. So you can change that really easy 
+Description: Functions like coordinates. You can easily adjust these values to scale the object.
