@@ -1,0 +1,38 @@
+In Config File:
+
+teams:
+-
+# The Id of the custom Team
+  id: 2
+  name: 'GOC'
+  min_players: 4
+  spawn_chance: 35
+  spawn_wave: ChaosInsurgency
+  spawn_position:
+    x: 63
+    y: 992
+    z: -50
+
+Explaining the id and name Variables:
+
+id: 2
+Description: Which ID should the Team have
+
+name: 'GOC'
+Description: Whats the Name of the Team
+
+Explaining the max_players and min_players Variables:
+
+min_players: 1
+Description: How much Players should spawn as this Role
+
+Explaining the spawn_chance variable:
+  
+spawn_chance: 35
+Description: How much Chance should the Team have to spawn
+
+spawn_wave: ChaosInsurgency
+Description: Which Spawn Wave should the Team replace if it spawns (NineTailedFox, ChaosInsurgency)
+
+spawn_position:
+Description: Spawn Positon in Coordinats
