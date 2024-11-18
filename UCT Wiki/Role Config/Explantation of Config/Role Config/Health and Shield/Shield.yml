@@ -1,0 +1,21 @@
+In Config File:
+
+ahp:
+  amount: 0
+  limit: 75
+  decay: 1.20000005
+  efficacy: 0.699999988
+  sustain: 0
+  persistant: false
+
+
+Explaining Shield Variables:
+  
+hume_shield: 0
+Description: How many Hume Shield should the Role have at Begin of the round.
+  
+hume_shield_regeneration_amout: 2
+Description: How many points it can regenerate.
+  
+hume_shield_regeneration_delay: 7.5
+Description: How many Seconds it takes to regenerates Hume Shield.
