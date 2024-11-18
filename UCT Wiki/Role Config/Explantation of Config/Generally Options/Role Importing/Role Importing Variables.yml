@@ -1,9 +1,9 @@
-In Config File:
+# In Config File:
+import_roles:
+  - 2
+
+# Explaining the import_roles Variable:
 
 import_roles:
-
-Explaining the import_roles Variable:
-
-import_roles:
-- 2
-Description: If you have UCR Roles and want to use them in your Team just put the ID there
+  - 2
+Description: If you have UCR roles and want to use them in your team, simply put the role ID(s) here.
