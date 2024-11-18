@@ -1,14 +1,13 @@
-In Config File:
-
+# In Config File:
 spawn_broadcast: You are a <color=orange><b>Janitor</b></color>! Clean the Light Containment Zone!
 spawn_broadcast_duration: 5
 
-Explaining Broadcast Variables: 
+# Explaining Broadcast Variables:
 
 spawn_broadcast: You are a <color=orange><b>Janitor</b></color>! Clean the Light Containment Zone!
-Descrption: What should be in broadcast that will be displayed to a Player
+Description: The message that will be broadcast to the player when they spawn.
 
 spawn_broadcast_duration: 5
-Description: How long should the Broadcast be shown for to Player in seconds
+Description: The duration (in seconds) for which the broadcast message will be shown to the player.
 
-#if you want to disable broadcast set 'spawn_broadcast_duration: 0' :3
+# If you want to disable the broadcast, set 'spawn_broadcast_duration: 0' :3
