@@ -1,41 +1,40 @@
-## Welcome to the UCSWiki! ##
+## Welcome to the UCS Wiki! ##
 
-## What is the UCS Wiki? ##
+### What is the UCS Wiki? ###
 
-The UCS Wiki is created by Mega5000201, Piwnica and FoxWorm to help new and Expirenced UCR,UCI and UCT Users to  fix Errors and to have a good Explentation how the Plugins and Configs are working
+The UCS Wiki is created by Mega500201, Piwnica, and FoxWorm to assist both new and experienced users of UCR, UCI, and UCT in fixing errors and providing clear explanations of how the plugins and configurations work.
 
-Important this Wiki is under a [GPL 3.0 License](https://github.com/Mega500201/UCS-Wiki/blob/main/LICENSE) 
+Please note that this wiki is licensed under the [GPL 3.0 License](https://github.com/Mega500201/UCS-Wiki/blob/main/LICENSE).
 
-## FAQ ##
+### FAQ ###
 
-Q: Where can i find the right definition of an Item or Weapon
+**Q: Where can I find the right definition of an item or weapon?**
 
-A: You can find that and more [here](https://github.com/Mega500201/UCS-Wiki/tree/main/UCR%20Wiki/Useful%20Information)
+A: You can find that and more [here](https://github.com/Mega500201/UCS-Wiki/tree/main/UCR%20Wiki/Useful%20Information).
 
-Q: I found something outdated or what is wrong defined
+**Q: I found something outdated or incorrectly defined.**
 
-A: Please create an Issue [here](https://github.com/Mega500201/UCS-Wiki/issues)
+A: Please create an issue [here](https://github.com/Mega500201/UCS-Wiki/issues).
 
-Q: I want to help contribuilding or/and updating this Wiki
+**Q: I want to help contribute to or update this wiki.**
 
-A: Write shadowarisu527 on Discord a Mesage and they will give you all Information
+A: Send a message to shadowarisu527 on Discord, and they will provide you with all the necessary information.
 
-Q: Can i create a fork of this easily or something
+**Q: Can I create a fork of this repository or contribute easily?**
 
-A: Please read the [License](https://github.com/Mega500201/UCS-Wiki/blob/main/LICENSE) of this repository
+A: Please read the [license](https://github.com/Mega500201/UCS-Wiki/blob/main/LICENSE) of this repository for more details.
 
-Q: Is this Project sponsored or something
+**Q: Is this project sponsored?**
 
-A: No its not, its just created to help others
+A: No, it is not sponsored. It was created simply to help others.
 
-## Credits ##
+### Credits ###
 
-@Mega500201 Creating this Wiki
+- **@Mega500201** – Created this wiki.
+- **@PiwnicaUwU** – Updating and contributing to this wiki.
+- **@FoxWorm** – Created all of the plugins and assisted in creating this wiki.
 
-@PiwnicaUwU Updating and helping Contributing this Wiki
+---
 
-@FoxWorm For creating all of the Plugins and helping us to create this Wiki
-
-
-Last Update: 18.11.2024 18:15
-Timezone: CEST
+**Last Update:** 18.11.2024 18:15  
+**Timezone:** CEST
