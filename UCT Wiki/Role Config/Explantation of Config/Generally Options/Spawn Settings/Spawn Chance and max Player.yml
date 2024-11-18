@@ -24,7 +24,7 @@ Description: Whats the Name of the Team
 Explaining the max_players and min_players Variables:
 
 min_players: 1
-Description: How much Players should spawn as this Role
+Description: How minimal number of Players should be on server to let this this Role spawn
 
 Explaining the spawn_chance variable:
   
@@ -36,3 +36,4 @@ Description: Which Spawn Wave should the Team replace if it spawns (NineTailedFo
 
 spawn_position:
 Description: Spawn Positon in Coordinats
+
