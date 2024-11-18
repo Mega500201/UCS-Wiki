@@ -16,4 +16,4 @@ hume_shield_regeneration_amout: 2
 Description: How many points the Hume Shield can regenerate.
 
 hume_shield_regeneration_delay: 7.5
-Description: How many seconds it takes for the Hume Shi
+Description: How many seconds it takes for the Hume Shield to regenerate.
