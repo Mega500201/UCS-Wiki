@@ -1,26 +1,25 @@
-In Config File:
- 
-  spawn: RoomsSpawn
-  spawn_zones: []
-  spawn_rooms:
+# In Config File:
+spawn: RoomsSpawn
+spawn_zones: []
+spawn_rooms:
   - LczClassDSpawn
-  spawn_points: []
+spawn_points: []
 
-Explaing the spawn Variable:
+# Explaining the spawn Variable:
 
 spawn: RoomsSpawn
-Descirption: What Spawn Type should be used to spawn the Role. All Spawn Types can be found at: UCR Wiki/Useful Information/Spawn/Spawn Type.yml
+Description: Specifies the spawn type that should be used to spawn the role. All spawn types can be found in the UCR Wiki/Useful Information/Spawn/Spawn Type.yml.
 
-Explaining the spawn Type Variables:
+# Explaining the spawn Type Variables:
 
 spawn_zones: []
-Description: In which Zone should the Role spawn. All Zones can be found at: UCR Wiki/Useful Information/Spawn/Zone Type.yml
+Description: Specifies the zones where the role should spawn. All zones can be found in the UCR Wiki/Useful Information/Spawn/Zone Type.yml.
 
 spawn_rooms:
-- LczClassDSpawn
-Description: If you set it to rooms you have to set in which Room it should spawn. All Rooms can be found at: UCR Wiki/Useful Information/Spawn/Room Type.yml
+  - LczClassDSpawn
+Description: If you use the "rooms" spawn type, you must specify the room in which the role should spawn. All rooms can be found in the UCR Wiki/Useful Information/Spawn/Room Type.yml.
 
 spawn_points: []
-Description: Spawnpoints spawn, you can set the spawnpoint at your coordinates and type it in role config
+Description: Specifies custom spawn points. You can set a spawn point at specific coordinates and type it in the role config.
 
-#You can use only one spawn per role, you can't have something like spawn: RoomsSpawn, ZoneSpawn
+# Note: You can use only one spawn type per role. You can't combine different spawn types like RoomsSpawn and ZoneSpawn.
