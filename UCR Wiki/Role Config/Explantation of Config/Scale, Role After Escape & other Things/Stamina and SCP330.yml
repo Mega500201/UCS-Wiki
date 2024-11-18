@@ -1,23 +1,22 @@
-In Config File:
-
+# In Config File:
 stamina:
   regen_multiplier: 1
   usage_multiplier: 1
   infinite: false
 max_scp330_candies: 2
 
-Explaining Stamania Variables:
+# Explaining Stamina Variables:
 
-  regen_multiplier: 1
-  Description: How much should be the Multiplier
-  
-  usage_multiplier: 1
-  Description: How much should be the Multiploer on Use
-  
-  infinite: true/false
-  Description: Should it be Infinite
+regen_multiplier: 1
+Description: Defines the multiplier for stamina regeneration.
 
-Explaining SCP330 Variables:
+usage_multiplier: 1
+Description: Defines the multiplier for stamina usage.
+
+infinite: true/false
+Description: Specifies whether stamina should be infinite.
+
+# Explaining SCP-330 Variables:
 
 max_scp330_candies: 2
-Descirption: how many Candies the Role can pickup (default is 2)
+Description: Defines how many candies the role can pick up (default is 2).
