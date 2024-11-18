@@ -1,24 +1,23 @@
-In Config File:
-
+# In Config File:
 id: 1
 name: 'Janitor'
 override_role_name: false
 nickname: 'D-%dnumber%'
 custom_info: 'Janitor'
 
-Explaining Name Variables:
+# Explaining the Name Variables:
 
-id: 1 
-Description: is the ID of the Class wich UCR needs to load your SubClass. With the ID you can spawn yourself as Subclass
+id: 1
+Description: The ID of the class that UCR needs to load your subclass. With the ID, you can spawn yourself as a subclass.
 
 name: 'My Role'
-Description: The Name of the Role so how it should be named
+Description: The name of the role, specifying how it should be displayed.
 
 override_role_name: true/false
-Description: If you want that the Role Name overrides the Normal Role Name
+Description: If set to true, the role name will override the normal role name.
 
 nickname: 'Test'
-Description: A Nickname so when you press 'N' you see a Custom Name (Not required if you want to Nickname let this Field empty)
+Description: A nickname that will be shown when pressing 'N'. It displays a custom name. This field is not required if you don't want a nickname (leave it empty).
 
 custom_info: 'My Role'
 Description: If you look at someone whose class is a subclass, you can see which subclass they belong to.
