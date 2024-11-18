@@ -15,7 +15,7 @@ name: 'My Role'
 Description: The Name of the Role so how it should be named
 
 override_role_name: true/false
-Description: If you want that the Role Name ovverrides the Normal Role Name
+Description: If you want that the Role Name overrides the Normal Role Name
 
 nickname: 'Test'
 Description: A Nickname so when you press 'N' you see a Custom Name (Not required if you want to Nickname let this Field empty)
