@@ -1,17 +1,16 @@
-In Config File:
-
+# In Config File:
 can_escape: true
 role_after_escape:
   default: InternalRole Spectator
   cuffed by InternalTeam ChaosInsurgency: InternalRole ClassD
 
-Explaining escape Variables: 
+# Explaining Escape Variables:
 
 can_escape: true/false
-Description: Can the Role escape
+Description: Determines if the role can escape.
 
 role_after_escape:
   default: InternalRole Spectator
   cuffed by InternalTeam ChaosInsurgency: InternalRole ClassD
-
-  Description: If we set the 'default' role (in this case, spectator), then after escaping, this custom role will change into a spectator. If we set it to 'cuffed by InternalTeam team' and then the role, when the custom role is cuffed by this specific team, it will change into the designated role after escaping
+Description: Specifies the role the player will take after escaping. If set to 'default' (e.g., Spectator), the role will change to a spectator after escaping. 
+If set to 'cuffed by InternalTeam team' (e.g. ChaosInsurgency), the role will change to the designated role after escaping if they were cuffed by that team.
