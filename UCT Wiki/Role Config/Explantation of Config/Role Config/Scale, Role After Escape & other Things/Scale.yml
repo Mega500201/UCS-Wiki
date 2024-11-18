@@ -1,0 +1,10 @@
+In Config File:
+
+scale:
+  x: 1
+  y: 1
+  z: 1
+
+Explaining scale Variables:
+
+Description: Simply working like Coordinates. So you can change that really easy 
