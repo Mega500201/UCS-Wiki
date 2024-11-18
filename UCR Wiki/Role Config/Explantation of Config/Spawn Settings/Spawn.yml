@@ -21,4 +21,6 @@ spawn_rooms:
 Description: If you set it to rooms you have to set in which Room it should spawn. All Rooms can be found at: UCR Wiki/Useful Information/Spawn/Room Type.yml
 
 spawn_points: []
-Description:
+Description: Spawnpoints spawn, you can set the spawnpoint at your coordinates and type it in role config
+
+#You can use only one spawn per role, you can't have something like spawn: RoomsSpawn, ZoneSpawn
