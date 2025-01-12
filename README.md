@@ -1,3 +1,5 @@
+## Note: The Wiki is not up to date right now! ##
+
 ## Welcome to the UCS Wiki! ##
 
 ### What is the UCS Wiki? ###
