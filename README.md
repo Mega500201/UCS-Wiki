@@ -28,7 +28,7 @@ A: Please read the [license](https://github.com/Mega500201/UCS-Wiki/blob/main/LI
 
 A: No, it is not sponsored. It was created simply to help others.
 
-## Status of the Wikis ## 
+## Status of the Wiki's ## 
 
 | Status | Wiki |
 | --- | --- |
@@ -45,5 +45,5 @@ A: No, it is not sponsored. It was created simply to help others.
 
 ---
 
-**Last Update:** 12.ß1.2025 21:19
+**Last Update:** 27.02.2025 21:28
 **Timezone:** CEST
