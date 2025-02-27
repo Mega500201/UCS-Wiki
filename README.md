@@ -1,5 +1,3 @@
-## Note: The Wiki is not up to date right now! ##
-
 ## Welcome to the UCS Wiki! ##
 
 ### What is the UCS Wiki? ###
@@ -29,6 +27,15 @@ A: Please read the [license](https://github.com/Mega500201/UCS-Wiki/blob/main/LI
 **Q: Is this project sponsored?**
 
 A: No, it is not sponsored. It was created simply to help others.
+
+## Status of the Wikis ## 
+
+| Status | Wiki |
+| --- | --- |
+| :white_check_mark: | UCR Wiki| 
+| :white_check_mark: | UCT Wiki |
+| :x: | UCI Wiki (Currently in Progress) | 
+| :x:| UCA Wiki (Plugin is right now not available/ in development | 
 
 ### Credits ###
 
