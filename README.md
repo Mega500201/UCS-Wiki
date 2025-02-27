@@ -4,7 +4,7 @@
 
 The UCS Wiki is created by Mega500201, Piwnica, and FoxWorn to assist both new and experienced users of UCR, UCI, and UCT in fixing errors and providing clear explanations of how the plugins and configurations work.
 
-Please note that this wiki is licensed under the [GPL 3.0 License](https://github.com/Mega500201/UCS-Wiki/blob/main/LICENSE).
+Please note that this wiki is licensed under the [AGPL-3.0 License](https://github.com/Mega500201/UCS-Wiki/blob/main/LICENSE).
 
 ### FAQ ###
 
