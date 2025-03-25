@@ -1,0 +1,10 @@
+# Explaining Item, Weight and Scale Variables:
+
+weight: 2
+Description: Weight of the item when held and in the inventory.
+
+item: 
+Description: Selects what item the custom item should be.
+
+scale: 1 1 1
+Description: Scale of the item when dropped.

@@ -1,0 +1,23 @@
+
+  do_spawn: false
+  Description: If true, the custom item can spawn. If false, it will not.
+  
+  count: 1
+  Description: The number of custom items to spawn.
+  
+  coords: []
+  Description: Custom coordinates where the custom item will spawn. This will overright all zone spawns and room spawns
+  
+  rooms: []
+  Description: The room(s) where the custom item can spawn. This will overright zone spawns
+  
+  zones:
+  - HeavyContainment
+  - Entrance
+  Description: The zone(s) where the custom item can spawn.
+  
+  replace_existing_pickup: false
+  Description: If true, the custom item will replace an existing in-game item.
+
+  force_item: false
+  Description: If true, this item will only replace another pickup of the same item type as the custom item.

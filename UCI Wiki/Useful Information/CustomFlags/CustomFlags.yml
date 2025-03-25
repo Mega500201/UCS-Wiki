@@ -1,0 +1,14 @@
+CustomFlags:
+  NotExecutable
+  None
+  DoNotTriggerTeslaGates
+  LifeSteal
+  HalfLifeSteal
+  InfiniteAmmo
+  DieOnUse
+  WorkstationBan
+  ItemGlow
+  EffectWhenUsed
+  EffectShot
+  EffectWhenEquiped
+  NoCharge

@@ -1,0 +1,11 @@
+# In Config File:
+id: 1
+name: 'Janitor'
+
+# Explaining Name Variables:
+
+id: 1
+Description: This is the ID of the class that UCR uses to load your subclass. With the ID, you can spawn yourself as the subclass.
+
+name: 'My Role'
+Description: The name of the item, specifying how it should appear.
