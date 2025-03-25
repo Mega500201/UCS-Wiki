@@ -1,11 +1,7 @@
-# In Config File:
-id: 1
-name: 'Janitor'
-
 # Explaining Name Variables:
 
 id: 1
-Description: This is the ID of the class that UCR uses to load your subclass. With the ID, you can spawn yourself as the subclass.
+Description: This is the ID of the item that UCI uses to load your custom item. With the ID, you can spawn the item.
 
-name: 'My Role'
+name: 'FunnyGun'
 Description: The name of the item, specifying how it should appear.
