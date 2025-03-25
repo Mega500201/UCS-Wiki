@@ -34,7 +34,7 @@ A: No, it is not sponsored. It was created simply to help others.
 | --- | --- |
 | :white_check_mark: | UCR Wiki| 
 | :white_check_mark: | UCT Wiki |
-| :x: | UCI Wiki (Currently in Progress) | 
+| :white_check_mark: | UCI Wiki| 
 | :x:| UCA Wiki (Plugin is right now not available/ in development | 
 
 ### Credits ###
