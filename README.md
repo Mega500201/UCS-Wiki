@@ -40,10 +40,11 @@ A: No, it is not sponsored. It was created simply to help others.
 ### Credits ###
 
 - **@Mega500201** – Created this wiki.
-- **@PiwnicaUwU** – Updating and contributing to this wiki.
+- **@PiwnicaUwU** – Updating and contributing to this wiki + updating the UCT Wiki
 - **@FoxWorn** – Created all of the plugins and assisted in creating this wiki.
+- **@Mr. Baguetter** - Created the UCI Wiki and updating the UCI Plugin
 
 ---
 
-**Last Update:** 27.02.2025 21:28
+**Last Update:** 26.03.2025 07:48
 **Timezone:** CEST
