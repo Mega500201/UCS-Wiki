@@ -1,3 +1,5 @@
+**NOTE**: _This repository is no longer supported or updated by Mega5000201. If you wish to continue to develop this code yourself, we recommend you fork it._</code>
+
 ## Welcome to the UCS Wiki! ##
 
 ### What is the UCS Wiki? ###
